@@ -359,7 +359,7 @@ body{
     font-size: 5vmin;
     color: #ff43b6;
     font-weight: bold;
-    text-shadow: 0 0 10px rgba(255, 67, 182, 0.8);
+    /* text-shadow: 0 0 10px rgba(255, 67, 182, 0.8); */
     opacity: 0;
     animation: text-appear 2s 1s forwards;
 }
